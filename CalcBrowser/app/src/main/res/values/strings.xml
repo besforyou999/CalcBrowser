@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">HW2</string>
+    <string name="app_name">CalcBrowser</string>
     <string name="title_activity_my_web_browser">MyWebBrowser</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
